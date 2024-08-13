@@ -1,0 +1,12 @@
+Type s in the terminal to choose : snake
+Type w in the terminal to choose : water
+Type g in the terminal to choose : gun
+
+Win or Lose situations: 
+Snake drinks Water: Snake wins.
+Gun kills Snake: Gun wins.
+Water douses Gun: Water wins.
+
+Draw:
+
+If both players choose the same option, the game is a draw, and no one wins that round.
